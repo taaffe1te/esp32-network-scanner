@@ -85,7 +85,7 @@ main.ino
 
 ## Author
 
-Makar — IoT & Embedded Security, MSTU Bauman 2025
+Makar — IoT & Embedded Security, BMSTU 2026
 
 ---
 
